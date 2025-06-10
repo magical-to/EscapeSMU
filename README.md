@@ -35,7 +35,15 @@
 - 기획 및 디자인: [정진교/magical_to]  
 - 프론트엔드 개발: [정진교/magical_to]  
 - 백엔드 및 DB 설계: [윤재형/wogud1220]  
-- QA 및 테스터 관리: [정진교/magical_to, 윤재형/wogud1220]  
+- QA 및 테스터 관리: [정진교/magical_to, 윤재형/wogud1220]
+
+## 💡 Tech Stack
+
+- Frontend : React Native, FIGMA
+- Backend : Fast API(opencv, SIFT, FLANN), python/venv, Compute Engine
+- Database : Firebase Database, Firebase Authentication
+- Deployment : GCP, Github Actions
+- Documentation : Notion
 
 ## 📷 스크린샷
 ![image](https://github.com/user-attachments/assets/0897af57-3ac8-4a50-b63a-c8bcf3c1ae84)<br>
